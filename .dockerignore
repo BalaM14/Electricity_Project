@@ -1,0 +1,5 @@
+.gitignore
+notebook/
+venv/
+__pycache__/
+*.pyc
